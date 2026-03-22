@@ -1,9 +1,44 @@
 [
     {
-        "date": "2025-10-05",
-        "item_name": "Books",
-        "amount": 100,
-        "description": "Sample Paper 10th",
+        "date": "2025-11-04",
+        "item_name": "Book",
+        "amount": 10,
+        "description": "Sample Paper",
         "category": "School"
+    },
+    {
+        "date": "2025-11-04",
+        "item_name": "Book",
+        "amount": 100,
+        "description": "Sample paper",
+        "category": "School"
+    },
+    {
+        "date": "2025-11-04",
+        "item_name": "Stationery",
+        "amount": 12,
+        "description": "Pencil, Eraser, Shapner",
+        "category": "School"
+    },
+    {
+        "date": "2025-11-04",
+        "item_name": "spectacles",
+        "amount": 1000,
+        "description": "New spectacles for eye protection",
+        "category": "Personal"
+    },
+    {
+        "date": "2025-11-04",
+        "item_name": "chatgpt upgrade",
+        "amount": 120000,
+        "description": "Previous plan Expired",
+        "category": "Professional "
+    },
+    {
+        "date": "2025-11-04",
+        "item_name": "watch",
+        "amount": 120,
+        "description": "New Rolex watch",
+        "category": "personal"
     }
 ]
